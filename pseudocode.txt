@@ -1,0 +1,43 @@
+// 5 notes que l'on va additioné puis divisé /le nbr de note.
+
+// const n1 = 8;
+// const n2 = 12;
+// const n3 = 19;
+// const n4 = 13;
+// const n5 = 0;
+
+// sum (n1+n2+n3+n4+n5)/5=moyenne;
+
+
+exo1
+let prix
+
+if (prix>100)
+prix*0,01=prix reduction
+
+else 
+prix
+
+exo2
+
+let age
+if age<=18
+    accesstobox
+else getaway
+
+exo3
+
+let note
+
+if note>=mentiontb
+    mentiontb
+else if mentionbien=> note<= mentiontb
+else note >mentionbien
+    no mention
+
+
+    exo4
+
+    let celsius
+    function(celcius){
+      result=  ( celcius × 9/5) + 32 }
